@@ -1,0 +1,121 @@
+ExpenseID,ExpenseDate,Category,Description,Amount,CostType,BookingID
+5001,2023-12-21,Specialist Hire,Description for 101,350.32,Direct,101
+5002,2023-06-21,Security,Description for 102,178.61,Direct,102
+5003,2023-10-07,Security,Description for 103,189.78,Direct,103
+5004,2023-06-21,Specialist Hire,Description for 104,255.44,Direct,104
+5005,2024-01-30,Cleaning,Description for 105,69.26,Direct,105
+5006,2024-04-02,Specialist Hire,Description for 106,281.01,Direct,106
+5007,2024-02-15,Security,Description for 107,229.88,Direct,107
+5008,2024-02-03,Cleaning,Description for 108,95.17,Direct,108
+5009,2023-04-10,Security,Description for 109,237.99,Direct,109
+5010,2023-05-30,Specialist Hire,Description for 110,294.45,Direct,110
+5011,2023-10-30,Cleaning,Description for 111,88.98,Direct,111
+5012,2024-01-04,Security,Description for 112,232.80,Direct,112
+5013,2023-12-28,Cleaning,Description for 113,92.33,Direct,113
+5014,2023-09-10,Specialist Hire,Description for 114,358.65,Direct,114
+5015,2023-09-12,Cleaning,Description for 116,77.11,Direct,116
+5016,2023-09-03,Security,Description for 117,181.49,Direct,117
+5017,2023-11-20,Cleaning,Description for 118,88.29,Direct,118
+5018,2023-09-03,Security,Description for 120,164.86,Direct,120
+5019,2023-09-02,Cleaning,Description for 121,87.25,Direct,121
+5020,2023-12-29,Security,Description for 123,205.81,Direct,123
+5021,2023-07-16,Security,Description for 125,197.98,Direct,125
+5022,2024-02-24,Specialist Hire,Description for 126,358.02,Direct,126
+5023,2023-06-22,Cleaning,Description for 128,85.00,Direct,128
+5024,2023-10-13,Cleaning,Description for 130,66.68,Direct,130
+5025,2024-03-18,Security,Description for 131,189.21,Direct,131
+5026,2023-06-23,Security,Description for 132,194.67,Direct,132
+5027,2023-08-29,Specialist Hire,Description for 133,358.24,Direct,133
+5028,2024-01-14,Specialist Hire,Description for 134,344.07,Direct,134
+5029,2023-05-18,Specialist Hire,Description for 135,354.15,Direct,135
+5030,2023-05-27,Cleaning,Description for 140,74.96,Direct,140
+5031,2023-10-03,Cleaning,Description for 142,79.55,Direct,142
+5032,2023-08-06,Specialist Hire,Description for 144,305.25,Direct,144
+5033,2023-06-09,Cleaning,Description for 145,85.59,Direct,145
+5034,2024-02-28,Cleaning,Description for 146,66.58,Direct,146
+5035,2024-01-14,Specialist Hire,Description for 147,266.89,Direct,147
+5036,2024-02-13,Cleaning,Description for 148,89.67,Direct,148
+5037,2023-10-02,Specialist Hire,Description for 149,294.51,Direct,149
+5038,2023-08-14,Specialist Hire,Description for 151,266.70,Direct,151
+5039,2024-01-21,Security,Description for 152,206.91,Direct,152
+5040,2023-04-18,Security,Description for 155,211.23,Direct,155
+5041,2023-10-30,Cleaning,Description for 158,93.39,Direct,158
+5042,2024-01-13,Cleaning,Description for 159,75.63,Direct,159
+5043,2023-09-18,Specialist Hire,Description for 160,263.14,Direct,160
+5044,2023-11-27,Specialist Hire,Description for 161,295.64,Direct,161
+5045,2023-09-19,Security,Description for 162,187.41,Direct,162
+5046,2023-10-16,Specialist Hire,Description for 163,304.73,Direct,163
+5047,2023-10-13,Specialist Hire,Description for 164,324.04,Direct,164
+5048,2024-01-09,Cleaning,Description for 165,76.78,Direct,165
+5049,2023-05-16,Security,Description for 166,195.49,Direct,166
+5050,2024-01-12,Specialist Hire,Description for 167,352.26,Direct,167
+5051,2023-07-14,Specialist Hire,Description for 168,253.86,Direct,168
+5052,2023-08-20,Security,Description for 172,236.31,Direct,172
+5053,2024-02-26,Security,Description for 174,215.99,Direct,174
+5054,2023-08-24,Cleaning,Description for 175,85.48,Direct,175
+5055,2023-10-13,Security,Description for 176,172.15,Direct,176
+5056,2023-08-27,Specialist Hire,Description for 177,308.34,Direct,177
+5057,2023-06-21,Cleaning,Description for 178,76.92,Direct,178
+5058,2023-09-28,Security,Description for 179,173.33,Direct,179
+5059,2023-10-09,Specialist Hire,Description for 180,296.16,Direct,180
+5060,2023-09-18,Cleaning,Description for 186,95.42,Direct,186
+5061,2023-09-21,Security,Description for 187,167.90,Direct,187
+5062,2023-05-17,Cleaning,Description for 188,70.43,Direct,188
+5063,2023-04-05,Security,Description for 189,199.07,Direct,189
+5064,2023-09-27,Security,Description for 190,183.44,Direct,190
+5065,2023-08-30,Security,Description for 191,166.25,Direct,191
+5066,2024-02-13,Security,Description for 192,238.20,Direct,192
+5067,2024-02-04,Cleaning,Description for 193,70.73,Direct,193
+5068,2023-04-19,Security,Description for 194,226.41,Direct,194
+5069,2024-02-26,Security,Description for 195,219.33,Direct,195
+5070,2023-11-03,Cleaning,Description for 197,94.42,Direct,197
+5071,2023-05-12,Cleaning,Description for 199,87.51,Direct,199
+5072,2023-08-30,Security,Description for 200,174.14,Direct,200
+5073,2023-04-28,Utilities,Monthly Utilities,411.45,Indirect,
+5074,2023-04-20,Insurance,Monthly Insurance,656.42,Indirect,
+5075,2023-04-13,Maintenance,Monthly Maintenance,162.58,Indirect,
+5076,2023-04-27,Supplies,Monthly Supplies,98.82,Indirect,
+5077,2023-05-16,Utilities,Monthly Utilities,418.10,Indirect,
+5078,2023-05-13,Insurance,Monthly Insurance,617.21,Indirect,
+5079,2023-05-18,Maintenance,Monthly Maintenance,153.05,Indirect,
+5080,2023-05-05,Supplies,Monthly Supplies,98.86,Indirect,
+5081,2023-06-18,Utilities,Monthly Utilities,369.72,Indirect,
+5082,2023-06-25,Insurance,Monthly Insurance,584.34,Indirect,
+5083,2023-06-20,Maintenance,Monthly Maintenance,151.95,Indirect,
+5084,2023-06-22,Supplies,Monthly Supplies,99.44,Indirect,
+5085,2023-07-25,Utilities,Monthly Utilities,399.74,Indirect,
+5086,2023-07-10,Insurance,Monthly Insurance,649.61,Indirect,
+5087,2023-07-26,Maintenance,Monthly Maintenance,163.37,Indirect,
+5088,2023-07-20,Supplies,Monthly Supplies,96.54,Indirect,
+5089,2023-08-11,Utilities,Monthly Utilities,377.47,Indirect,
+5090,2023-08-23,Insurance,Monthly Insurance,641.69,Indirect,
+5091,2023-08-08,Maintenance,Monthly Maintenance,139.26,Indirect,
+5092,2023-08-28,Supplies,Monthly Supplies,90.18,Indirect,
+5093,2023-09-04,Utilities,Monthly Utilities,414.98,Indirect,
+5094,2023-09-27,Insurance,Monthly Insurance,563.48,Indirect,
+5095,2023-09-20,Maintenance,Monthly Maintenance,161.89,Indirect,
+5096,2023-09-14,Supplies,Monthly Supplies,93.00,Indirect,
+5097,2023-10-03,Utilities,Monthly Utilities,438.14,Indirect,
+5098,2023-10-03,Insurance,Monthly Insurance,550.55,Indirect,
+5099,2023-10-23,Maintenance,Monthly Maintenance,160.53,Indirect,
+5100,2023-10-27,Supplies,Monthly Supplies,90.29,Indirect,
+5101,2023-11-12,Utilities,Monthly Utilities,373.90,Indirect,
+5102,2023-11-22,Insurance,Monthly Insurance,649.48,Indirect,
+5103,2023-11-24,Maintenance,Monthly Maintenance,143.42,Indirect,
+5104,2023-11-28,Supplies,Monthly Supplies,107.14,Indirect,
+5105,2023-12-10,Utilities,Monthly Utilities,428.05,Indirect,
+5106,2023-12-06,Insurance,Monthly Insurance,557.27,Indirect,
+5107,2023-12-30,Maintenance,Monthly Maintenance,158.66,Indirect,
+5108,2023-12-09,Supplies,Monthly Supplies,108.67,Indirect,
+5109,2024-01-14,Utilities,Monthly Utilities,381.28,Indirect,
+5110,2024-01-10,Insurance,Monthly Insurance,638.11,Indirect,
+5111,2024-01-11,Maintenance,Monthly Maintenance,146.42,Indirect,
+5112,2024-01-11,Supplies,Monthly Supplies,102.60,Indirect,
+5113,2024-02-23,Utilities,Monthly Utilities,410.21,Indirect,
+5114,2024-02-18,Insurance,Monthly Insurance,589.87,Indirect,
+5115,2024-02-25,Maintenance,Monthly Maintenance,154.28,Indirect,
+5116,2024-02-29,Supplies,Monthly Supplies,105.52,Indirect,
+5117,2024-03-11,Utilities,Monthly Utilities,367.96,Indirect,
+5118,2024-03-09,Insurance,Monthly Insurance,608.98,Indirect,
+5119,2024-03-11,Maintenance,Monthly Maintenance,140.54,Indirect,
+5120,2024-03-28,Supplies,Monthly Supplies,108.20,Indirect,
