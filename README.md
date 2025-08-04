@@ -1,7 +1,3 @@
-# Stage 3: Data Analysis with SQL
-
-## Objective
-
 Transform raw data files (`bookings.csv` and `expenditures.csv`) into a single, clean, analysis-ready dataset using SQL. This ensures data integrity and enables efficient aggregations and joins.
 
 **Key steps:**
